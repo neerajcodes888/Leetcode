@@ -3,7 +3,7 @@ public:
     vector<int> findErrorNums(vector<int>& nums) {
         vector<int>ans;
         
-        map<int,int>m;
+        unordered_map<int,int>m;
         for(auto it:nums){
             ++m[it];
         }
