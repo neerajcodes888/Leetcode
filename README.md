@@ -1,6 +1,10 @@
-# Coding-Practices
-Collection of LeetCode questions to ace the coding interview!
 # LeetCode Solutions
+
+![Leetcode](https://socialify.git.ci/neerajcodes888/Leetcode/image?description=1&descriptionEditable=Welcome%20to%20my%20LeetCode%20Data%20Structures%20and%20Algorithms%20(DSA)%20solutions%20repository!%20%F0%9F%8C%9F%20Dive%20into%20a%20curated%20collection%20of%20my%20solutions%20to%20LeetCode&font=Bitter&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+
+
+Collection of LeetCode questions to ace the coding interview!
+
 
 This repository contains my solutions to various LeetCode problems. Each solution is organized by the problem's name and is implemented in [programming language].
 
