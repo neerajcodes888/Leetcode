@@ -51,3 +51,11 @@ Please ensure your code follows the existing coding style and includes appropria
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/neerajcodes888/Leetcode/tree/master/0176-second-highest-salary) |
+<!---LeetCode Topics End-->
