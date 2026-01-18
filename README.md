@@ -67,4 +67,5 @@ Please ensure your code follows the existing coding style and includes appropria
 | [0584-find-customer-referee](https://github.com/neerajcodes888/Leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/neerajcodes888/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/neerajcodes888/Leetcode/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/neerajcodes888/Leetcode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
